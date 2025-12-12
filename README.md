@@ -99,7 +99,7 @@
 <br>
 
 <div align="center">
-  <h3>\uD83D\uDEE0\uFE0F Tech Stack</h3>
+  <h3>🛠️ Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode&theme=dark" />
   </a>
@@ -108,7 +108,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="140" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="500" alt="stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" width="300" alt="langs" />
 </div>
 
 <br>
