@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="100%">
+  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="800">
 </div>
 
 <div align="center">
@@ -11,22 +11,22 @@
 <div align="center">
   <!-- HERO DEMO: TEST MECANOGRAFIA -->
   <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
-    <img src="https://img.shields.io/badge/PROBAR_TEST_DE_MECANOGRAFÍA-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e293b" height="50">
+    <img src="https://img.shields.io/badge/PROBAR_TEST_DE_MECANOGRAFÍA-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e293b" height="40">
   </a>
   
   <br><br>
 
   <!-- QUICK LINKS (Other Demos) -->
   <a href="https://danicode-dev.github.io/ahorcado/">
-    <img src="https://img.shields.io/badge/Jugar_Ahorcado-eab308?style=flat-square&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Jugar_Ahorcado-eab308?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   &nbsp;
   <a href="https://danicode-dev.github.io/FORMULARIO-/">
-    <img src="https://img.shields.io/badge/Ver_Formulario-ec4899?style=flat-square&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Ver_Formulario-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   &nbsp;
   <a href="https://danicode-dev.github.io/">
-    <img src="https://img.shields.io/badge/Visitar_Portfolio-white?style=flat-square&logo=firefox&logoColor=black">
+    <img src="https://img.shields.io/badge/Visitar_Portfolio-white?style=for-the-badge&logo=firefox&logoColor=black">
   </a>
   <br><br>
   
