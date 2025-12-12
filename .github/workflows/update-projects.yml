@@ -1,0 +1,35 @@
+name: Update Profile Projects
+
+on:
+  push:
+    paths:
+      - 'projects/projects.yml'
+      - 'scripts/render_projects.py'
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install pyyaml
+        
+      - name: Update Projects
+        run: python scripts/render_projects.py
+        
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update profile projects [skip ci]"
+          file_pattern: 'README.md projects/README.md'

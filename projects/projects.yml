@@ -1,0 +1,53 @@
+- name: Test_mecagonagrafia
+  repo: https://github.com/danicode-dev/Test_mecagonagrafia
+  demo: https://danicode-dev.github.io/Test_mecagonagrafia/
+  tech: [HTML, CSS, JavaScript]
+  status: featured
+  preview: profile/assets/previews/test_mecanografia.svg
+  desc: "Test de mecanografía minimalista estilo Monkeytype con estadísticas en vivo."
+
+- name: ahorcado
+  repo: https://github.com/danicode-dev/ahorcado
+  demo: https://danicode-dev.github.io/ahorcado/
+  tech: [Java, HTML, CSS, JavaScript]
+  status: featured
+  preview: profile/assets/previews/ahorcado.svg
+  desc: "Ahorcado con versión consola Java + versión web avanzada con modos, logros e historial."
+
+- name: FORMULARIO-
+  repo: https://github.com/danicode-dev/FORMULARIO-
+  demo: https://danicode-dev.github.io/FORMULARIO-/
+  tech: [HTML, CSS, JavaScript]
+  status: featured
+  preview: profile/assets/previews/formulario.svg
+  desc: "Formulario con validación en tiempo real + animación de fondo (Canvas) estilo glassmorphism."
+
+- name: danicode-dev.github.io
+  repo: https://github.com/danicode-dev/danicode-dev.github.io
+  demo: https://danicode-dev.github.io/
+  tech: [HTML, CSS, JavaScript]
+  status: active
+  preview: "" # Optional specific preview or default
+  desc: "Portal principal y landing page. Diseño dark mode responsivo."
+
+# Placeholders
+- name: Portfolio-v2
+  repo: "#"
+  demo: "#"
+  tech: [React, Tailwind]
+  status: planned
+  desc: "Futura versión del portfolio con framework moderno."
+
+- name: API-User-Management
+  repo: "#"
+  demo: "#"
+  tech: [Node.js, Express, MongoDB]
+  status: planned
+  desc: "API RESTful para gestión de usuarios y autenticación."
+
+- name: SQL-Data-Modeling
+  repo: "#"
+  demo: "#"
+  tech: [SQL, PostgreSQL]
+  status: planned
+  desc: "Esquemas de base de datos complejos para e-commerce."
