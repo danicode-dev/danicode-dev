@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="profile/assets/banner.svg" alt="Banner: danicode-dev" width="100%">
+  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="100%">
 </div>
 
 <div align="center">
   <h3>DAW · Java & Web Dev · Building real projects</h3>
-  
-  [<img src="https://img.shields.io/badge/LinkedIn-Conecta-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">](#)
-  [<img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tuemail@ejemplo.com)
 </div>
 
 <br>
@@ -14,7 +11,7 @@
 <div align="center">
   <!-- HERO DEMO: TEST MECANOGRAFIA -->
   <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
-    <img src="https://img.shields.io/badge/PROBAR_TEST_DE_MECANOGRAFÍA_\u2328\uFE0F-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e293b" height="50">
+    <img src="https://img.shields.io/badge/PROBAR_TEST_DE_MECANOGRAFÍA-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1e293b" height="50">
   </a>
   
   <br><br>
@@ -31,6 +28,9 @@
   <a href="https://danicode-dev.github.io/">
     <img src="https://img.shields.io/badge/Visitar_Portfolio-white?style=flat-square&logo=firefox&logoColor=black">
   </a>
+  <br><br>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Garc%C3%ADa%20Ortega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/)
 
 </div>
 
