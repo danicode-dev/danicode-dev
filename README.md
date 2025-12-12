@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="800">
+  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="600">
 </div>
 
 <div align="center">
