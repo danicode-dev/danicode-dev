@@ -2,7 +2,6 @@ import yaml
 import os
 
 def load_projects():
-    # Only run if file exists
     if os.path.exists('projects/projects.yml'):
         with open('projects/projects.yml', 'r', encoding='utf-8') as f:
             return yaml.safe_load(f)
@@ -12,10 +11,8 @@ def generate_featured_markdown(projects):
     featured = [p for p in projects if p.get('status') == 'featured']
     featured = featured[:6]
     
-    md = "### \u2B50 Proyectos Destacados (Featured)\n\n"
-    # Grid using table
-    md += "| Proyecto | Detalles | Preview |\n"
-    md += "| :--- | :--- | :---: |\n"
+    # HTML Table Layout for Maximum Visual Impact
+    md = "## Proyectos Destacados\n\n"
     
     for p in featured:
         name = p['name']
@@ -23,24 +20,34 @@ def generate_featured_markdown(projects):
         demo = p.get('demo', '#')
         repo = p.get('repo', '#')
         preview = p.get('preview', '')
-        
-        tech_txt = " ".join([f"`{t}`" for t in p.get('tech', [])])
+        tech = " \u00B7 ".join(p.get('tech', []))
         
         # Badges
-        badges = f"[<img src='https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white' height='20'>]({repo})"
-        if demo and demo != "#":
-            badges += f" [<img src='https://img.shields.io/badge/Live-Demo-38bdf8?style=flat-square&logo=google-chrome&logoColor=white' height='20'>]({demo})"
-            
-        preview_img = ""
-        if preview:
-            preview_img = f"<img src='{preview}' width='200'>"
-            
-        md += f"| **{name}**<br>{desc}<br><br>{tech_txt}<br>{badges} | {preview_img} |\n"
+        play_btn = f"<a href='{demo}'><img src='https://img.shields.io/badge/JUGAR_AHORA-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white' height='28'></a>"
+        repo_btn = f"<a href='{repo}'><img src='https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white' height='28'></a>"
+        
+        # Visual Card Row
+        md += "<table>\n"
+        md += "  <tr>\n"
+        md += f"    <td width='50%' valign='top'>\n"
+        md += f"      <a href='{demo}'>\n"
+        md += f"        <img src='{preview}' alt='Preview {name}' width='100%'>\n"
+        md += "      </a>\n"
+        md += "    </td>\n"
+        md += f"    <td valign='top'>\n"
+        md += f"      <h3 style='margin-top:0'>{name}</h3>\n"
+        md += f"      <p>{desc}</p>\n"
+        md += f"      <p><b>Tech:</b> <code>{tech}</code></p>\n"
+        md += f"      <br>\n"
+        md += f"      {play_btn} &nbsp; {repo_btn}\n"
+        md += "    </td>\n"
+        md += "  </tr>\n"
+        md += "</table>\n<br>\n\n"
         
     return md
 
 def generate_catalog_markdown(projects):
-    md = "# \uD83D\uDCC1 Catálogo Completo de Proyectos\n\n"
+    md = "# \uD83D\uDCC1 Catálogo Completo\n\n"
     md += "[< Volver al Perfil Principal](../README.md)\n\n"
     
     grouped = {}
@@ -64,10 +71,8 @@ def main():
     projects = load_projects()
     if not projects: return
 
-    # Featured
     featured_md = generate_featured_markdown(projects)
     
-    # Update README
     readme_path = 'README.md'
     if os.path.exists(readme_path):
         with open(readme_path, 'r', encoding='utf-8') as f:
@@ -79,11 +84,10 @@ def main():
         if start in content and end in content:
             pre = content.split(start)[0]
             post = content.split(end)[1]
-            new_content = f"{pre}{start}\n{featured_md}\n{end}{post}"
+            new_content = f"{pre}{start}\n{featured_md}{end}{post}"
             with open(readme_path, 'w', encoding='utf-8') as f:
                 f.write(new_content)
                 
-    # Create Catalog
     with open('projects/README.md', 'w', encoding='utf-8') as f:
         f.write(generate_catalog_markdown(projects))
 

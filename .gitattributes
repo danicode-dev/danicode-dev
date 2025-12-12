@@ -1,0 +1,6 @@
+# Ignore automation scripts and assets from language stats
+scripts/* linguist-vendored
+profile/assets/* linguist-vendored
+projects/README.md linguist-generated
+profile/README.template.md linguist-documentation
+profile/SETUP.md linguist-documentation

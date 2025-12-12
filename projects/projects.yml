@@ -1,53 +1,46 @@
-- name: Test_mecagonagrafia
-  repo: https://github.com/danicode-dev/Test_mecagonagrafia
-  demo: https://danicode-dev.github.io/Test_mecagonagrafia/
-  tech: [HTML, CSS, JavaScript]
-  status: featured
-  preview: profile/assets/previews/test_mecanografia.svg
-  desc: "Test de mecanografía minimalista estilo Monkeytype con estadísticas en vivo."
-
-- name: ahorcado
+- name: Ahorcado
   repo: https://github.com/danicode-dev/ahorcado
   demo: https://danicode-dev.github.io/ahorcado/
   tech: [Java, HTML, CSS, JavaScript]
   status: featured
   preview: profile/assets/previews/ahorcado.svg
-  desc: "Ahorcado con versión consola Java + versión web avanzada con modos, logros e historial."
+  desc: "Juego completo con modos (Clásico, Contrarreloj), logros y estadísticas locales."
 
-- name: FORMULARIO-
+- name: Test de Mecanografía
+  repo: https://github.com/danicode-dev/Test_mecagonagrafia
+  demo: https://danicode-dev.github.io/Test_mecagonagrafia/
+  tech: [HTML, CSS, JavaScript]
+  status: featured
+  preview: profile/assets/previews/test_mecanografia.svg
+  desc: "Test de velocidad de escritura estilo Monkeytype con métricas en tiempo real."
+
+- name: Formulario
   repo: https://github.com/danicode-dev/FORMULARIO-
   demo: https://danicode-dev.github.io/FORMULARIO-/
   tech: [HTML, CSS, JavaScript]
   status: featured
   preview: profile/assets/previews/formulario.svg
-  desc: "Formulario con validación en tiempo real + animación de fondo (Canvas) estilo glassmorphism."
+  desc: "Formulario de registro con validaciones exhaustivas (sin HTML5 attributes) y efectos visuales."
 
-- name: danicode-dev.github.io
+- name: Portfolio (danicode-dev.github.io)
   repo: https://github.com/danicode-dev/danicode-dev.github.io
   demo: https://danicode-dev.github.io/
   tech: [HTML, CSS, JavaScript]
   status: active
-  preview: "" # Optional specific preview or default
-  desc: "Portal principal y landing page. Diseño dark mode responsivo."
+  preview: ""
+  desc: "Landing page personal con diseño responsive y dark mode."
 
 # Placeholders
-- name: Portfolio-v2
+- name: API REST User Management
   repo: "#"
   demo: "#"
-  tech: [React, Tailwind]
+  tech: [Node.js, Express]
   status: planned
-  desc: "Futura versión del portfolio con framework moderno."
+  desc: "Sistema backend para gestión de usuarios y autenticación JWT."
 
-- name: API-User-Management
-  repo: "#"
-  demo: "#"
-  tech: [Node.js, Express, MongoDB]
-  status: planned
-  desc: "API RESTful para gestión de usuarios y autenticación."
-
-- name: SQL-Data-Modeling
+- name: E-commerce Database
   repo: "#"
   demo: "#"
   tech: [SQL, PostgreSQL]
   status: planned
-  desc: "Esquemas de base de datos complejos para e-commerce."
+  desc: "Diseño de esquema relacional complejo para tienda online."
