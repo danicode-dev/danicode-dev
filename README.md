@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/assets/banner.png" alt="Banner: danicode-dev" width="600">
+  <img src="profile/assets/banner_transparent.png" alt="Banner: danicode-dev" width="400">
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
-        <img src="profile/assets/previews/test_mecanografia.svg" alt="Preview Test Mecanografía" width="100%">
+        <img src="profile/assets/previews/test_mecanografia.png" alt="Preview Test Mecanografía" width="100%">
       </a>
     </td>
     <td valign="top">
@@ -63,7 +63,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://danicode-dev.github.io/ahorcado/">
-        <img src="profile/assets/previews/ahorcado.svg" alt="Preview Ahorcado" width="100%">
+        <img src="profile/assets/previews/ahorcado.png" alt="Preview Ahorcado" width="100%">
       </a>
     </td>
     <td valign="top">
@@ -81,7 +81,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://danicode-dev.github.io/FORMULARIO-/">
-        <img src="profile/assets/previews/formulario.svg" alt="Preview Formulario" width="100%">
+        <img src="profile/assets/previews/formulario.png" alt="Preview Formulario" width="100%">
       </a>
     </td>
     <td valign="top">

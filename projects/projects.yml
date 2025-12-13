@@ -3,7 +3,7 @@
   demo: https://danicode-dev.github.io/ahorcado/
   tech: [Java, HTML, CSS, JavaScript]
   status: featured
-  preview: profile/assets/previews/ahorcado.svg
+  preview: profile/assets/previews/ahorcado.png
   desc: "Juego completo con modos (Clásico, Contrarreloj), logros y estadísticas locales."
 
 - name: Test de Mecanografía
@@ -11,7 +11,7 @@
   demo: https://danicode-dev.github.io/Test_mecagonagrafia/
   tech: [HTML, CSS, JavaScript]
   status: featured
-  preview: profile/assets/previews/test_mecanografia.svg
+  preview: profile/assets/previews/test_mecanografia.png
   desc: "Test de velocidad de escritura estilo Monkeytype con métricas en tiempo real."
 
 - name: Formulario
@@ -19,7 +19,7 @@
   demo: https://danicode-dev.github.io/FORMULARIO-/
   tech: [HTML, CSS, JavaScript]
   status: featured
-  preview: profile/assets/previews/formulario.svg
+  preview: profile/assets/previews/formulario.png
   desc: "Formulario de registro con validaciones exhaustivas (sin HTML5 attributes) y efectos visuales."
 
 - name: Portfolio (danicode-dev.github.io)
