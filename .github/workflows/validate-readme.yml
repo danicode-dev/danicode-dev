@@ -1,0 +1,23 @@
+name: Validate README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Link Checker 🔗
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          # Check all links in README.md
+          args: --verbose --no-progress README.md
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
