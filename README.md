@@ -124,8 +124,9 @@
   
   <br><br>
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
+  <!-- Activity Graph - Last 31 days -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=📅%20Daily%20Contributions%20(Last%2031%20Days)" width="100%" alt="Activity Graph">
+  <sub>📆 Commits diarios en los últimos 31 días</sub>
 </div>
 
 <br><br>
