@@ -132,12 +132,8 @@
   
   <br>
   
-  <!-- SNAKE ANIMATION PLACEHOLDER -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danicode-dev/danicode-dev/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/danicode-dev/danicode-dev/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/danicode-dev/danicode-dev/raw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" alt="Contribution Graph">
 </div>
 
 <br><br>
