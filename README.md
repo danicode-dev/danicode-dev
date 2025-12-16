@@ -132,8 +132,7 @@
   
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=github_dark" width="280" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danicode-dev&theme=github_dark&utcOffset=1" width="280" alt="Commits by Hour">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=github_dark" width="400" alt="Stats">
   
   <br>
   <sub>📆 Annual activity overview</sub>
