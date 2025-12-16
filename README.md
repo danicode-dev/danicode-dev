@@ -119,25 +119,13 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="450" alt="stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&bg_color=00000000" width="340" alt="langs" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  
-  <!-- GitHub Streak Stats - Shows total contributions since account creation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danicode-dev&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" width="500" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320" alt="Top Languages">
   
   <br><br>
   
-  <!-- GitHub Activity Graph - with area fill and months -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&area_color=58A6FF&line=79C0FF&point=FFFFFF" width="100%" alt="Contribution Graph">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph">
 </div>
 
 <br><br>
