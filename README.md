@@ -11,7 +11,7 @@
   
   <br>
   
-  <a href="https://danicode-dev.github.io/PORTAFOLIO/">
+  <a href="https://danicode-dev.github.io/PORTFOLIO/">
     <img src="https://img.shields.io/badge/Portfolio-danicode--dev-black?style=for-the-badge&logo=globe&logoColor=white" height="35">
   </a>
   &nbsp;
