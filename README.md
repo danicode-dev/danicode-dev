@@ -123,21 +123,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" width="300" alt="Top Languages">
 </div>
 
-<br>
-
-<!-- CONTRIBUTION SUMMARY -->
-<h3 align="center">📅 Contribution Summary</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danicode-dev&theme=github_dark" width="100%" alt="Profile Details">
-  
-  <br>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=github_dark" width="280" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danicode-dev&theme=github_dark&utcOffset=1" width="280" alt="Commits by Hour">
-  
-  <br>
-  <sub>📆 Annual activity overview</sub>
-</div>
 
 <br><br>
 
