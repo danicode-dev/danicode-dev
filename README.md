@@ -129,11 +129,15 @@
       </td>
     </tr>
   </table>
-  
   <br>
   
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" alt="Contribution Graph">
+  <!-- GitHub Streak Stats - Shows total contributions since account creation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danicode-dev&theme=tokyonight&hide_border=true&background=00000000&date_format=j%20M%5B%20Y%5D" width="500" alt="GitHub Streak">
+  
+  <br><br>
+  
+  <!-- GitHub Activity Graph - with area fill and months -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&area_color=58A6FF&line=79C0FF&point=FFFFFF" width="100%" alt="Contribution Graph">
 </div>
 
 <br><br>
