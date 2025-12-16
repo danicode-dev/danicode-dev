@@ -51,8 +51,8 @@
     </td>
     <td width="45%" valign="center">
       <div align="center">
-        <!-- Optional: Replace with snake or another dynamic graphic later -->
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" style="border-radius: 10px;">
+        <!-- Coding animation -->
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding animation">
       </div>
     </td>
   </tr>
