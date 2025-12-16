@@ -119,8 +119,8 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="400" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff&title_color=58a6ff" width="420" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" width="300" alt="Top Languages">
 </div>
 
 <br>
@@ -128,19 +128,15 @@
 <!-- CONTRIBUTION SUMMARY -->
 <h3 align="center">📅 Contribution Summary</h3>
 <div align="center">
-  <!-- Commits by Month -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danicode-dev&theme=tokyonight&utcOffset=1" width="400" alt="Commits by Hour">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danicode-dev&theme=tokyonight" width="400" alt="Profile Details">
-  
-  <br><br>
-  
-  <!-- Year Overview -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=tokyonight" width="260" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danicode-dev&theme=tokyonight" width="260" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danicode-dev&theme=tokyonight" width="260" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danicode-dev&theme=github_dark" width="100%" alt="Profile Details">
   
   <br>
-  <sub>📆 Resumen de actividad anual · Commits por hora y lenguaje</sub>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=github_dark" width="280" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danicode-dev&theme=github_dark&utcOffset=1" width="280" alt="Commits by Hour">
+  
+  <br>
+  <sub>📆 Annual activity overview</sub>
 </div>
 
 <br><br>
