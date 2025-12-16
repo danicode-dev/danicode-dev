@@ -121,12 +121,26 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="400" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320" alt="Top Languages">
+</div>
+
+<br>
+
+<!-- CONTRIBUTION SUMMARY -->
+<h3 align="center">📅 Contribution Summary</h3>
+<div align="center">
+  <!-- Commits by Month -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danicode-dev&theme=tokyonight&utcOffset=1" width="400" alt="Commits by Hour">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danicode-dev&theme=tokyonight" width="400" alt="Profile Details">
   
   <br><br>
   
-  <!-- Activity Graph - Last 31 days -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicode-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=📅%20Daily%20Contributions%20(Last%2031%20Days)" width="100%" alt="Activity Graph">
-  <sub>📆 Commits diarios en los últimos 31 días</sub>
+  <!-- Year Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=tokyonight" width="260" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danicode-dev&theme=tokyonight" width="260" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danicode-dev&theme=tokyonight" width="260" alt="Most Commit Language">
+  
+  <br>
+  <sub>📆 Resumen de actividad anual · Commits por hora y lenguaje</sub>
 </div>
 
 <br><br>
