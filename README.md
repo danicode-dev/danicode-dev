@@ -22,7 +22,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Email-webdaniel2025%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=white" height="25">
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Views&color=blue&style=flat-square" height="25">
+  <img src="https://img.shields.io/github/public-repos/danicode-dev?style=flat-square&label=Repos&logo=github&color=161B22" height="25">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Views&color=161B22&style=flat-square&logo=github" height="25">
 </p>
 
 <!-- HERO_END -->
