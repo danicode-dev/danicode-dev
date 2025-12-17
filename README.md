@@ -1,33 +1,33 @@
 <!-- HERO_START -->
-<div align="center">
-  <img src="assets/profile/avatar_pro.png" alt="Daniel García Ortega" width="160" height="160">
-  <h1 style="border-bottom: none; margin-bottom: 0;">Daniel García Ortega</h1>
-  
-  <p align="center">
-    <!-- Portfolio -->
-    <a href="https://danicode-dev.github.io/PORTAFOLIO/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" height="30">
-    </a>
-    &nbsp;
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30">
-    </a>
-    &nbsp;
-    <!-- Connect -->
-    <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
-      <img src="https://img.shields.io/badge/Connect-Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30">
-    </a>
-  </p>
-  
-  <p align="center">
-    <strong>📧 Email:</strong> <code>webdaniel2025@gmail.com</code>
-  </p>
 
-  <br>
+## 👋 Hello, my name is Daniel García Ortega.
 
-  <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
-</div>
+I am 👨‍💻 **DAW Student** and 🌐 **Java & Web Developer** based in **Granada, Spain**.
+
+Welcome to my page; on my GitHub, you can find:
+
+- 🚀 Projects created by me
+- 💻 Full Stack Web Applications
+- 📚 Learning resources and experiments
+
+<br>
+
+<p>
+  <a href="https://danicode-dev.github.io/PORTAFOLIO/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" height="28">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28">
+  </a>
+</p>
+
+📧 **Email:** `webdaniel2025@gmail.com`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+
 <!-- HERO_END -->
 
 <br>
