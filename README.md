@@ -18,13 +18,11 @@
   <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25">
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Email-webdaniel2025@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Views&color=blue&style=flat-square" height="25">
 </p>
-
-📧 `webdaniel2025@gmail.com`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
 
 <!-- HERO_END -->
 
