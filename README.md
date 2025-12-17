@@ -1,32 +1,27 @@
-<!-- HERO SECTION -->
+<!-- HERO_START -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="profile/assets/banner-light.png">
-    <img src="profile/assets/banner-dark.png" alt="Banner: danicode-dev" width="100%">
-  </picture>
-</div>
-
-<div align="center">
+  <img src="assets/profile/avatar.png" alt="Avatar" width="160" height="160">
+  <h1 style="border-bottom: none;">Daniel García Ortega</h1>
   
+  <p>
+    <a href="https://danicode-dev.github.io/PORTAFOLIO/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat&logo=google-chrome&logoColor=white" height="28">
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" height="28">
+    </a>
+  </p>
+  
+  <p>
+    <strong>📧 Email:</strong> <code>webdaniel2025@gmail.com</code>
+  </p>
+
   <br>
-  
-  <a href="https://danicode-dev.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-danicode--dev-black?style=for-the-badge&logo=globe&logoColor=white" height="35">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-  </a>
-  &nbsp;
-  <a href="mailto:contact@example.com"> <!-- Update if user provides email, otherwise leave generic or remove -->
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-  </a>
-
-  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </div>
+<!-- HERO_END -->
 
 <br>
 
