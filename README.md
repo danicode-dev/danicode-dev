@@ -46,7 +46,7 @@
   <table>
     <tr>
       <td width="33%" align="center" valign="top">
-        <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
+        <a href="https://github.com/danicode-dev/Test_mecagonagrafia">
           <img src="profile/assets/previews/test_mecanografia_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
@@ -59,9 +59,12 @@
         <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
           <img src="https://img.shields.io/badge/PLAY_DEMO-success?style=for-the-badge">
         </a>
+        <a href="https://github.com/danicode-dev/Test_mecagonagrafia">
+          <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
+        </a>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://danicode-dev.github.io/ahorcado/">
+        <a href="https://github.com/danicode-dev/ahorcado">
           <img src="profile/assets/previews/hangman_game_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
@@ -74,9 +77,12 @@
         <a href="https://danicode-dev.github.io/ahorcado/">
           <img src="https://img.shields.io/badge/PLAY_DEMO-success?style=for-the-badge">
         </a>
+        <a href="https://github.com/danicode-dev/ahorcado">
+          <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
+        </a>
       </td>
       <td width="33%" align="center" valign="top">
-        <a href="https://danicode-dev.github.io/FORMULARIO-/">
+        <a href="https://github.com/danicode-dev/FORMULARIO-">
           <img src="profile/assets/previews/smart_form_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
@@ -88,6 +94,9 @@
         </p>
         <a href="https://danicode-dev.github.io/FORMULARIO-/">
           <img src="https://img.shields.io/badge/VIEW_DEMO-success?style=for-the-badge">
+        </a>
+        <a href="https://github.com/danicode-dev/FORMULARIO-">
+          <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
         </a>
       </td>
     </tr>
