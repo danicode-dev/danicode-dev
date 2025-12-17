@@ -31,11 +31,20 @@ I'm a **DAW student** and passionate **Java & Web Developer**. I focus on buildi
 <br>
 
 <!-- TECH STACK -->
-### �️ Tech Stack
+### 🛠️ Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding animation">
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
