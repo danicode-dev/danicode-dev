@@ -47,7 +47,7 @@
     <tr>
       <td width="33%" align="center" valign="top">
         <a href="https://danicode-dev.github.io/Test_mecagonagrafia/">
-          <img src="profile/assets/previews/test_mecanografia.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
+          <img src="profile/assets/previews/test_mecanografia_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
         <h3>⌨️ Typing Test</h3>
@@ -62,7 +62,7 @@
       </td>
       <td width="33%" align="center" valign="top">
         <a href="https://danicode-dev.github.io/ahorcado/">
-          <img src="profile/assets/previews/ahorcado.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
+          <img src="profile/assets/previews/hangman_game_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
         <h3>🕹️ Hangman Game</h3>
@@ -77,7 +77,7 @@
       </td>
       <td width="33%" align="center" valign="top">
         <a href="https://danicode-dev.github.io/FORMULARIO-/">
-          <img src="profile/assets/previews/formulario.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
+          <img src="profile/assets/previews/smart_form_modern.png" width="100%" style="border-radius:10px; border: 1px solid #333;">
         </a>
         <br>
         <h3>📝 Smart Form</h3>
