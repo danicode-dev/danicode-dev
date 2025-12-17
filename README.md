@@ -1,14 +1,12 @@
 <!-- HERO_START -->
 
-## 👋 Hello, my name is Daniel García Ortega.
+## 👋 Hi, I'm Daniel García Ortega
 
-I am 👨‍💻 **DAW Student** and 🌐 **Java & Web Developer** based in **Granada, Spain**.
+I'm a **DAW student** and passionate **Java & Web Developer**. I focus on building real-world applications with clean code and modern architectures.
 
-Welcome to my page; on my GitHub, you can find:
-
-- 🚀 Projects created by me
-- 💻 Full Stack Web Applications
-- 📚 Learning resources and experiments
+- � I'm currently working on **Full Stack Web Apps**.
+- 🌱 I'm currently learning **Spring Boot & Advanced React**.
+- ⚡ Fun fact: I love optimizing algorithms for speed.
 
 <br>
 
@@ -32,35 +30,14 @@ Welcome to my page; on my GitHub, you can find:
 
 <br>
 
-<!-- ABOUT ME & TECH STACK -->
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👋 Hi, I'm Daniel García Ortega</h3>
-      <p>
-        I'm a <b>DAW student</b> and passionate <b>Java & Web Developer</b> based in Granada, Spain. I focus on building real-world applications with clean code and modern architectures.
-      </p>
-      <ul>
-        <li>🔭 I’m currently working on <b>Full Stack Web Apps</b>.</li>
-        <li>🌱 I’m currently learning <b>Spring Boot & Advanced React</b>.</li>
-        <li>⚡ Fun fact: I love optimizing algorithms for speed.</li>
-      </ul>
-      <br>
-      <b>My Tech Stack:</b><br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
-      </a>
-    </td>
-    <td width="45%" valign="center">
-      <div align="center">
-        <!-- Coding animation -->
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding animation">
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- TECH STACK -->
+### �️ Tech Stack
 
-<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
+</a>
+
+<br><br>
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
