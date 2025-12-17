@@ -1,26 +1,26 @@
 <!-- HERO_START -->
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
+
 ## 👋 Hi, I'm Daniel García Ortega
 
-I'm a **DAW student** and passionate **Java & Web Developer**. I focus on building real-world applications with clean code and modern architectures.
+**DAW student** · **Java & Web Developer**
 
-- � I'm currently working on **Full Stack Web Apps**.
-- 🌱 I'm currently learning **Spring Boot & Advanced React**.
-- ⚡ Fun fact: I love optimizing algorithms for speed.
-
-<br>
+🔭 Working on **Full Stack Web Apps**  
+🌱 Learning **Spring Boot & React**  
+⚡ I love optimizing algorithms!
 
 <p>
   <a href="https://danicode-dev.github.io/PORTAFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" height="25">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25">
   </a>
 </p>
 
-📧 **Email:** `webdaniel2025@gmail.com`
+📧 `webdaniel2025@gmail.com`
 
 <br>
 
@@ -28,23 +28,14 @@ I'm a **DAW student** and passionate **Java & Web Developer**. I focus on buildi
 
 <!-- HERO_END -->
 
-<br>
+<br clear="both">
 
 <!-- TECH STACK -->
 ### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding animation">
-    </td>
-  </tr>
-</table>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
+</a>
 
 <br><br>
 
