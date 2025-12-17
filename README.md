@@ -34,9 +34,9 @@
 <!-- TECH STACK -->
 ### 🛠️ Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,linux,vscode,notion&theme=dark" />
-</a>
+<p align="left">
+  <img src="assets/tech-stack.gif" alt="Tech Stack (animated)" />
+</p>
 
 <br><br>
 
