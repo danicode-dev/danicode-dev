@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://danicode-dev.github.io/PORTAFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=google-chrome&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white" height="25">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
