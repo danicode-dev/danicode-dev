@@ -11,7 +11,7 @@
 ⚡ I love optimizing algorithms!
 
 <p>
-  <a href="https://danicode-dev.github.io/PORTAFOLIO/">
+  <a href="https://danicode-dev.github.io/PORTFOLIO/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white" height="25">
   </a>
   &nbsp;
