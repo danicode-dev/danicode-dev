@@ -4,7 +4,8 @@
 
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Daniel García Ortega
 
-**DAW student** ·
+**DAW student** 
+
 🔭 Working on **Full Stack Web Apps**  
 🌱 Learning **Spring Boot & React**  
 ⚡ I love optimizing algorithms!
