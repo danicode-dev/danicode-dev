@@ -1,46 +1,7 @@
-- name: Ahorcado
-  repo: https://github.com/danicode-dev/ahorcado
-  demo: https://danicode-dev.github.io/ahorcado/
-  tech: [Java, HTML, CSS, JavaScript]
-  status: featured
-  preview: profile/assets/previews/ahorcado.png
-  desc: "Juego completo con modos (Clásico, Contrarreloj), logros y estadísticas locales."
-
-- name: Test de Mecanografía
-  repo: https://github.com/danicode-dev/Test_mecagonagrafia
-  demo: https://danicode-dev.github.io/Test_mecagonagrafia/
-  tech: [HTML, CSS, JavaScript]
-  status: featured
-  preview: profile/assets/previews/test_mecanografia.png
-  desc: "Test de velocidad de escritura estilo Monkeytype con métricas en tiempo real."
-
-- name: Formulario
-  repo: https://github.com/danicode-dev/FORMULARIO-
-  demo: https://danicode-dev.github.io/FORMULARIO-/
-  tech: [HTML, CSS, JavaScript]
-  status: featured
-  preview: profile/assets/previews/formulario.png
-  desc: "Formulario de registro con validaciones exhaustivas (sin HTML5 attributes) y efectos visuales."
-
-- name: Portfolio (danicode-dev.github.io)
-  repo: https://github.com/danicode-dev/danicode-dev.github.io
-  demo: https://danicode-dev.github.io/
-  tech: [HTML, CSS, JavaScript]
-  status: active
-  preview: ""
-  desc: "Landing page personal con diseño responsive y dark mode."
-
-# Placeholders
-- name: API REST User Management
-  repo: "#"
+- name: AIDraft
+  repo: https://github.com/danicode-dev/AIDraft
   demo: "#"
-  tech: [Node.js, Express]
-  status: planned
-  desc: "Sistema backend para gestión de usuarios y autenticación JWT."
-
-- name: E-commerce Database
-  repo: "#"
-  demo: "#"
-  tech: [SQL, PostgreSQL]
-  status: planned
-  desc: "Diseño de esquema relacional complejo para tienda online."
+  tech: [Next.js, TypeScript, Prisma, PostgreSQL, Groq]
+  status: featured
+  preview: AIDraft.png
+  desc: "Preguntas a Word con IA para generar documentos academicos desde PDF/TXT y exportarlos a .docx."
