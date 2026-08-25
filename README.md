@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer, DAW Student, React, Next.js and Astro" width="100%" />
+  <a href="#"><img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer, DAW Student, React, Next.js and Astro" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
-  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
+  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://al-lio.danielcode.dev/dashboard"><img src="https://img.shields.io/badge/AL--L%C3%8DO-OPEN_APP-06B6D4?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Open the AL-LÍO dashboard" /></a>
 </p>
 
@@ -29,7 +29,7 @@ I enjoy building useful web applications with clean, maintainable code, and I'm 
 - Building **[AL-LÍO](https://github.com/danielgarciaortega-dev/al-lio)** through **Aircury Summer of Code 2026** — a platform that brings tasks, calendars, learning and professional opportunities into one place.
 - Contributing as a **web development intern at Salunox**, resolving issues and validating web and mobile functionality for a healthcare SaaS platform.
 - Completing the second year of **Web Application Development (DAW)** at Instituto FOC.
-- Built **[SIDN Cost Control](https://github.com/danielgarciaortega-dev/sidn-cost-control)** (🏆 Premio del público) and **[Feedback2Action](https://github.com/danielgarciaortega-dev/Feedback2Action)** as team projects during **GEN AI ARENA**, a generative-AI hackathon by SIDN.
+- Built **[SIDN Cost Control](https://github.com/danielgarciaortega-dev/sidn-cost-control)** and **[Feedback2Action](https://github.com/danielgarciaortega-dev/Feedback2Action)** as team projects during **[GEN AI ARENA](https://www.arenasidn.com/edicion-1)**, a generative-AI hackathon by SIDN.
 
 ---
 
