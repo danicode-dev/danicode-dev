@@ -29,6 +29,7 @@ I enjoy building useful web applications with clean, maintainable code, and I'm 
 - Building **[AL-LÍO](https://github.com/danielgarciaortega-dev/al-lio)** through **Aircury Summer of Code 2026** — a platform that brings tasks, calendars, learning and professional opportunities into one place.
 - Contributing as a **web development intern at Salunox**, resolving issues and validating web and mobile functionality for a healthcare SaaS platform.
 - Completing the second year of **Web Application Development (DAW)** at Instituto FOC.
+- Built **[SIDN Cost Control](https://github.com/danielgarciaortega-dev/sidn-cost-control)** (🏆 Premio del público) and **[Feedback2Action](https://github.com/danielgarciaortega-dev/Feedback2Action)** as team projects during **GEN AI ARENA**, a generative-AI hackathon by SIDN.
 
 ---
 
@@ -47,12 +48,32 @@ I enjoy building useful web applications with clean, maintainable code, and I'm 
 
 ### Core expertise
 
-| Area | Technologies & Practices |
-| --- | --- |
-| **Frontend Engineering** | React, Next.js, Astro, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite |
-| **Backend & APIs** | Node.js, Java, Python, FastAPI, REST APIs |
-| **Data & Databases** | SQL, PostgreSQL, MySQL/MariaDB, BigQuery, Supabase |
-| **Tooling & Delivery** | Git, GitHub, Docker |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Technologies &amp; Practices</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Frontend Engineering</b></td>
+      <td>React, Next.js, Astro, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite</td>
+    </tr>
+    <tr>
+      <td><b>Backend &amp; APIs</b></td>
+      <td>Node.js, Java, Python, FastAPI, REST APIs</td>
+    </tr>
+    <tr>
+      <td><b>Data &amp; Databases</b></td>
+      <td>SQL, PostgreSQL, MySQL/MariaDB, BigQuery, Supabase</td>
+    </tr>
+    <tr>
+      <td><b>Tooling &amp; Delivery</b></td>
+      <td>Git, GitHub, Docker</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
