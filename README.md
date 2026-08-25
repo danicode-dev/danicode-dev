@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://danicode-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
   <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
-  <a href="mailto:dangarort123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Daniel García Ortega" /></a>
   <a href="https://al-lio.danielcode.dev/dashboard"><img src="https://img.shields.io/badge/AL--L%C3%8DO-OPEN_APP-06B6D4?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Open the AL-LÍO dashboard" /></a>
 </p>
 
@@ -63,7 +62,6 @@ I'm open to collaborating on useful web products and to junior full-stack opport
 
 <p align="center">
   <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
-  <a href="mailto:dangarort123@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email to Daniel García Ortega" /></a>
   <a href="https://danicode-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
 </p>
 
