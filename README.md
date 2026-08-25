@@ -67,6 +67,3 @@ I'm open to collaborating on useful web products and to junior full-stack opport
   <a href="https://danicode-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/profile-readme/footer-wave.svg" alt="Animated navy, blue and cyan waves" width="100%" />
-</p>
