@@ -1,98 +1,72 @@
-<!-- HERO_START -->
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="330">
-
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Daniel García Ortega
-
-**DAW student** 
-
-🔭 Working on **Full Stack Web Apps**  
-🌱 Learning **Spring Boot & React**  
-⚡ I love optimizing algorithms!
-
-<p>
-
-  <a href="https://danicode-dev.github.io/PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white" height="25">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/daniel-garcÍA-ortega-404754385/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25">
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Email-webdaniel2025%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanicode-dev&query=%24.public_repos&label=Repos&style=flat-square&logo=github&logoColor=white&color=161B22" height="25">
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=danicode-dev&label=Views&color=161B22&style=flat-square&logo=github" height="25">
+<p align="center">
+  <img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer, DAW Student, React, Next.js and Astro" width="100%" />
 </p>
 
-<!-- HERO_END -->
-
-<br clear="both">
-
-<!-- TECH STACK -->
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="assets/tech-stack.gif" alt="Tech Stack (animated)" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3800&amp;pause=1200&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=55&amp;lines=Building+AL-L%C3%8DO+%E2%80%94+Aircury+Summer+of+Code+2026" alt="Building AL-LÍO — Aircury Summer of Code 2026" />
 </p>
 
-<br><br>
+<p align="center">
+  <a href="https://danicode-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
+  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
+  <a href="mailto:dangarort123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Daniel García Ortega" /></a>
+  <a href="https://github.com/danicode-dev?tab=followers"><img src="https://img.shields.io/github/followers/danicode-dev?style=for-the-badge&amp;logo=github&amp;label=FOLLOW&amp;color=24292F" alt="Follow danicode-dev on GitHub" /></a>
+</p>
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="80%" align="center" valign="top">
-        <a href="https://github.com/danicode-dev/AIDraft">
-          <img src="AIDraft.png" width="100%" style="border-radius:10px; border: 1px solid #333;" alt="AIDraft - Preguntas a Word con IA">
-        </a>
-        <br>
-        <h3>🧠 AIDraft</h3>
-        <p>Preguntas a Word con IA: genera borradores académicos desde PDF/TXT, los edita y los exporta a .docx.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-          <img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square">
-        </p>
-        <a href="https://github.com/danicode-dev/AIDraft">
-          <img src="https://img.shields.io/badge/CODE-black?style=for-the-badge&logo=github">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br>
+## 👋 About me
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danicode-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58a6ff&title_color=58a6ff" width="420" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicode-dev&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" width="300" alt="Top Languages">
-</div>
+I'm **Daniel García Ortega**, a **full-stack web developer** based in **Granada, Spain**, currently completing the second year of a Higher Technician qualification in Web Application Development (DAW) at Instituto FOC.
 
-<br>
+After nearly ten years in customer service and sales at Alcampo and Konecta, I moved into software development. I'm now gaining hands-on experience as a web development intern at **Salunox**, working on a healthcare SaaS platform.
 
-<!-- CONTRIBUTION SUMMARY -->
-<h3 align="center">📅 Contribution Summary</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danicode-dev&theme=github_dark" width="100%" alt="Profile Details">
-  
-  <br>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danicode-dev&theme=github_dark" width="400" alt="Stats">
-  
-  <br>
-  <sub>📆 Annual activity overview</sub>
-</div>
+I enjoy building useful web applications with clean, maintainable code, and I'm focused on continuing to learn while contributing to real products and teams.
 
-<br><br>
+---
 
-<div align="center">
-  <sub>Designed by <b>danicode-dev</b> · 2025</sub>
-</div>
+## 🚀 Current focus
+
+- Building **[AL-LÍO](https://github.com/danicode-dev/al-lio)** through **Aircury Summer of Code 2026** — a platform that brings tasks, calendars, learning and professional opportunities into one place.
+- Contributing as a **web development intern at Salunox**, resolving issues and validating web and mobile functionality for a healthcare SaaS platform.
+- Completing the second year of **Web Application Development (DAW)** at Instituto FOC.
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,vite,java,py,fastapi,nodejs,postgres,mysql,git,github,docker,supabase&amp;perline=10" alt="Technology icons for HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS, Vite, Java, Python, FastAPI, Node.js, PostgreSQL, MySQL, Git, GitHub, Docker and Supabase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/MySQL_%2F_MariaDB-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL and MariaDB" />
+</p>
+
+### Core expertise
+
+| Area | Technologies & Practices |
+| --- | --- |
+| **Frontend Engineering** | React, Next.js, Astro, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite |
+| **Backend & APIs** | Node.js, Java, Python, FastAPI, REST APIs |
+| **Data & Databases** | SQL, PostgreSQL, MySQL/MariaDB, BigQuery, Supabase |
+| **Tooling & Delivery** | Git, GitHub, Docker |
+
+---
+
+## 🤝 Let's connect
+
+I'm open to collaborating on useful web products and to junior full-stack opportunities where I can keep learning and contribute from day one.
+
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
+  <a href="mailto:dangarort123@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email to Daniel García Ortega" /></a>
+  <a href="https://danicode-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="View Daniel García Ortega's portfolio" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/profile-readme/footer-wave.svg" alt="Animated navy, blue and cyan waves" width="100%" />
+</p>

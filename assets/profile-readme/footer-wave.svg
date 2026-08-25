@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title description">
+  <title id="title">Animated closing waves</title>
+  <desc id="description">Continuously moving navy, royal blue and cyan waves.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D1117" />
+      <stop offset="0.5" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#082F49" />
+    </linearGradient>
+    <linearGradient id="blueWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#172554" />
+      <stop offset="0.5" stop-color="#1D4ED8" />
+      <stop offset="1" stop-color="#075985" />
+    </linearGradient>
+    <linearGradient id="cyanWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E3A8A" />
+      <stop offset="0.52" stop-color="#0284C7" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+    <clipPath id="roundedFrame">
+      <rect width="1200" height="150" rx="16" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundedFrame)">
+    <rect width="1200" height="150" fill="url(#background)" />
+
+    <path d="M-1200 74 C-1000 36 -800 108 -600 74 C-400 36 -200 108 0 74 C200 36 400 108 600 74 C800 36 1000 108 1200 74 C1400 36 1600 108 1800 74 C2000 36 2200 108 2400 74 V160 H-1200 Z" fill="url(#blueWave)" opacity="0.88">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="13s" repeatCount="indefinite" />
+    </path>
+
+    <path d="M-1200 100 C-960 62 -840 126 -600 100 C-360 74 -240 126 0 100 C240 62 360 126 600 100 C840 74 960 126 1200 100 C1440 62 1560 126 1800 100 C2040 74 2160 126 2400 100 V160 H-1200 Z" fill="url(#cyanWave)" opacity="0.94">
+      <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="9s" repeatCount="indefinite" />
+    </path>
+
+    <path d="M-1200 126 C-1000 98 -800 148 -600 126 C-400 98 -200 148 0 126 C200 98 400 148 600 126 C800 98 1000 148 1200 126 C1400 98 1600 148 1800 126 C2000 98 2200 148 2400 126 V160 H-1200 Z" fill="#0D1117" opacity="0.82">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="17s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
