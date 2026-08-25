@@ -16,7 +16,7 @@
   <circle cx="780" cy="210" r="4" fill="#818cf8" opacity="0.4"/>
 
   <!-- Content -->
-  <text x="60" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#f8fafc">danicode-dev</text>
+  <text x="60" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#f8fafc">danielgarciaortega-dev</text>
   <text x="60" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#94a3b8">DAW · Java &amp; Web Dev · Building real projects</text>
   
   <!-- Accent -->

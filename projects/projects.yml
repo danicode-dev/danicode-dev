@@ -1,5 +1,5 @@
 - name: AIDraft
-  repo: https://github.com/danicode-dev/AIDraft
+  repo: https://github.com/danielgarciaortega-dev/AIDraft
   demo: "#"
   tech: [Next.js, TypeScript, Prisma, PostgreSQL, Groq]
   status: featured
