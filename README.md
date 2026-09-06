@@ -1,4 +1,5 @@
-<h1 align="center">Daniel García Ortega</h1>
+<h1 align="center">
+  <strong>Daniel García Ortega</h1>
 
 <p align="center">
   <strong>Full-Stack Developer  
