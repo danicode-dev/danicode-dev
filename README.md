@@ -2,10 +2,6 @@
   <strong>Daniel García Ortega</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer  
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Barlow&amp;weight=700&amp;size=21&amp;duration=3800&amp;pause=1200&amp;color=1F5B46&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=50&amp;lines=Building+AL-L%C3%8DO+%E2%80%94+Aircury+Summer+of+Code+2026" alt="Building AL-LÍO — Aircury Summer of Code 2026" />
 </p>
 
