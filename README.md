@@ -1,5 +1,7 @@
+<h1 align="center">Daniel García Ortega</h1>
+
 <p align="center">
-  <a href="#"><img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer and DAW Student" width="100%" /></a>
+  <strong>Full-Stack Developer | DAW Student</strong>
 </p>
 
 <p align="center">
