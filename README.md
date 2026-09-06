@@ -1,7 +1,7 @@
 <h1 align="center">Daniel García Ortega</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer  DAW Student</strong>
+  <strong>Full-Stack Developer  
 </p>
 
 <p align="center">
