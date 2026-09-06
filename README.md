@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="#"><img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer, DAW Student, React, Next.js and Astro" width="100%" /></a>
+  <a href="#"><img src="assets/profile-readme/hero-wave.svg" alt="Daniel García Ortega — Full-Stack Developer and DAW Student" width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3800&amp;pause=1200&amp;color=06B6D4&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=55&amp;lines=Building+AL-L%C3%8DO+%E2%80%94+Aircury+Summer+of+Code+2026" alt="Building AL-LÍO — Aircury Summer of Code 2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow&amp;weight=700&amp;size=21&amp;duration=3800&amp;pause=1200&amp;color=1F5B46&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=50&amp;lines=Building+AL-L%C3%8DO+%E2%80%94+Aircury+Summer+of+Code+2026" alt="Building AL-LÍO — Aircury Summer of Code 2026" />
 </p>
 
 <p align="center">
-  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge" alt="View Daniel García Ortega's portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://al-lio.danielcode.dev/dashboard"><img src="https://img.shields.io/badge/AL--L%C3%8DO-OPEN_APP-06B6D4?style=for-the-badge" alt="Open the AL-LÍO dashboard" /></a>
+  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-2F2A24?style=for-the-badge" alt="View Daniel García Ortega's portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/LINKEDIN-2F2A24?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F7F3EC" alt="Connect with Daniel García Ortega on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://al-lio.danielcode.dev/dashboard"><img src="https://img.shields.io/badge/AL--L%C3%8DO-1F5B46?style=for-the-badge" alt="Open AL-LÍO" /></a>
 </p>
 
 ---
@@ -37,13 +37,6 @@ I enjoy building useful web applications with clean, maintainable code, and I'm 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,vite,java,py,fastapi,nodejs,postgres,mysql,git,github,docker,supabase&amp;perline=10" alt="Technology icons for HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS, Vite, Java, Python, FastAPI, Node.js, PostgreSQL, MySQL, Git, GitHub, Docker and Supabase" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&amp;logo=googlebigquery&amp;logoColor=white" alt="Google BigQuery" />
-  <img src="https://img.shields.io/badge/MySQL_%2F_MariaDB-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL and MariaDB" />
 </p>
 
 ### Core expertise
@@ -82,7 +75,6 @@ I enjoy building useful web applications with clean, maintainable code, and I'm 
 I'm open to collaborating on useful web products and to junior full-stack opportunities where I can keep learning and contribute from day one.
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Daniel García Ortega on LinkedIn" /></a>
-  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge" alt="View Daniel García Ortega's portfolio" /></a>
+  <a href="https://linkedin.com/in/daniel-garc%C3%ADa-ortega-404754385/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2F2A24?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F7F3EC" alt="Connect with Daniel García Ortega on LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://danielgarciaortega-dev.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2F2A24?style=for-the-badge" alt="View Daniel García Ortega's portfolio" /></a>
 </p>
-

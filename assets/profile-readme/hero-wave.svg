@@ -1,67 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="title description">
   <title id="title">Daniel García Ortega</title>
-  <desc id="description">Full-Stack Developer, DAW Student, React, Next.js and Astro, over animated blue and cyan waves.</desc>
+  <desc id="description">Daniel García Ortega — Full-Stack Developer and DAW Student.</desc>
 
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0D1117" />
-      <stop offset="0.42" stop-color="#0F2D68" />
-      <stop offset="0.76" stop-color="#075B9C" />
-      <stop offset="1" stop-color="#0891B2" />
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="15%" r="68%">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.32" />
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
-    </radialGradient>
-    <linearGradient id="waveBlue" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#102A56" />
-      <stop offset="0.5" stop-color="#1D4ED8" />
-      <stop offset="1" stop-color="#075985" />
-    </linearGradient>
-    <linearGradient id="waveCyan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1E3A8A" />
-      <stop offset="0.52" stop-color="#0284C7" />
-      <stop offset="1" stop-color="#06B6D4" />
-    </linearGradient>
-    <clipPath id="roundedFrame">
-      <rect width="1200" height="300" rx="18" />
-    </clipPath>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" />
-    </pattern>
-  </defs>
+  <rect x="1" y="1" width="1198" height="188" rx="18" fill="#0D0F0E" stroke="#1F5B46" stroke-opacity="0.45" stroke-width="2" />
 
-  <g clip-path="url(#roundedFrame)">
-    <rect width="1200" height="300" fill="url(#background)" />
-    <rect width="1200" height="300" fill="url(#glow)" />
-    <rect width="1200" height="300" fill="url(#grid)" />
+  <text x="600" y="78" text-anchor="middle" fill="#F7F3EC" font-family="Barlow, Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-0.6">Daniel García Ortega</text>
+  <text x="600" y="120" text-anchor="middle" fill="#C7BDA9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Full-Stack Developer | DAW Student</text>
 
-    <circle cx="1080" cy="58" r="132" fill="#22D3EE" opacity="0.055">
-      <animate attributeName="r" values="112;148;112" dur="9s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.04;0.09;0.04" dur="9s" repeatCount="indefinite" />
-    </circle>
-
-    <g opacity="0.78">
-      <path d="M-1200 224 C-1000 178 -800 270 -600 224 C-400 178 -200 270 0 224 C200 178 400 270 600 224 C800 178 1000 270 1200 224 C1400 178 1600 270 1800 224 C2000 178 2200 270 2400 224 V320 H-1200 Z" fill="url(#waveBlue)">
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="14s" repeatCount="indefinite" />
-      </path>
-    </g>
-
-    <g opacity="0.9">
-      <path d="M-1200 250 C-960 205 -840 285 -600 250 C-360 215 -240 285 0 250 C240 205 360 285 600 250 C840 215 960 285 1200 250 C1440 205 1560 285 1800 250 C2040 215 2160 285 2400 250 V320 H-1200 Z" fill="url(#waveCyan)">
-        <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="10s" repeatCount="indefinite" />
-      </path>
-    </g>
-
-    <path d="M-1200 272 C-1000 238 -800 300 -600 272 C-400 238 -200 300 0 272 C200 238 400 300 600 272 C800 238 1000 300 1200 272 C1400 238 1600 300 1800 272 C2000 238 2200 300 2400 272 V320 H-1200 Z" fill="#061424" opacity="0.86">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="18s" repeatCount="indefinite" />
-    </path>
-
-    <text x="600" y="104" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="0.4">Daniel García Ortega</text>
-    <text x="600" y="158" text-anchor="middle" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="650">Full-Stack Developer | DAW Student | React, Next.js &amp; Astro</text>
-    <rect x="480" y="182" width="240" height="3" rx="1.5" fill="#67E8F9" opacity="0.88">
-      <animate attributeName="width" values="180;280;180" dur="6s" repeatCount="indefinite" />
-      <animate attributeName="x" values="510;460;510" dur="6s" repeatCount="indefinite" />
-    </rect>
-  </g>
+  <rect x="530" y="145" width="140" height="3" rx="1.5" fill="#1F5B46" />
 </svg>
